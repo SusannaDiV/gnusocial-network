@@ -6,6 +6,7 @@ author = "Susanna Di Vita"
 Paginate = 4
 
 DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 [languages]
 	[languages.en]
 		title = "GNU social - the free/libre social networking platform"
