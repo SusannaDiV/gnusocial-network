@@ -17,7 +17,7 @@ To add a documentation post:
 <ul>
 	<li> Responsive design: optimized both for mobile & desktop
 	</li>
-	<li> News section: organized by date in ascending order; the first 4 will be displayed on the landing page for better reaching
+	<li> News section: organized by date in ascending order; the first 4 posts will be displayed on the landing page for better reaching
 	</li>
 	<li> i18n: thanks to Hugo's content directory managment, translation for each news/docs page in multilingual-specific directories will be linked automatically
 	</li>
